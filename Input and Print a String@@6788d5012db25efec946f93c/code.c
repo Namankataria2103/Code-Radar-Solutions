@@ -1,6 +1,11 @@
 #include <stdio.h>
 
 int main() {
-    printf('hello');
+   str abc;
+   printf("enter digit");
+   scanf("%d",&abc);
+   printf("str is ")
+   
+   
     return 0;
 }
