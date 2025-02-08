@@ -2,10 +2,9 @@
 
 int main() {
    str abc;
-   printf("enter string");
    scanf("%d",&abc);
    
-   printf("str is ",abc);
+   printf("str is %d",abc);
    
    
     return 0;
