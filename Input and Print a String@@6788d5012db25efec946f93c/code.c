@@ -2,8 +2,9 @@
 
 int main() {
    str abc;
-   printf("enter digit");
+   printf("enter string");
    scanf("%d",&abc);
+   
    printf("str is ",abc);
    
    
