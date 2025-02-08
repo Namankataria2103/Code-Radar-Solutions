@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 int main() {
-   str abc;
-   scanf("%d",&abc);
+   char word;
+   scanf("%s",&word);
    
-   printf("str is %d",abc);
+   printf("you entered %s",word);
    
    
     return 0;
