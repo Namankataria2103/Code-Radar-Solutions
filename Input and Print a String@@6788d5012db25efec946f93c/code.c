@@ -4,7 +4,7 @@ int main() {
    str abc;
    printf("enter digit");
    scanf("%d",&abc);
-   printf("str is ")
+   printf("str is ",abc);
    
    
     return 0;
