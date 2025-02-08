@@ -2,11 +2,8 @@
 
 int main() {
     int a, b;
-    printf("enter a: ");
-    scanf("%d",&a);
-
-    printf("enter b: ");
-    scanf("%d",&b);
+    printf("enter a,b: ");
+    scanf("%d",&a,&b);
 
     int sum;
     printf("sum is: %d",sum);
