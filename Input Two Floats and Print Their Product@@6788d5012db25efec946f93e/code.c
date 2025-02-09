@@ -5,6 +5,6 @@ int main() {
     scanf("%f","%f",&num1,&num2);
 
     float product=num1*num2;
-    scanf("Product: %.2f\n",product)
+    printf("Product: %.2f\n",product)
     return 0;
 }
