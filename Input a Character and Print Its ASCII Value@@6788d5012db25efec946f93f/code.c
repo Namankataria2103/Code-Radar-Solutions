@@ -2,8 +2,8 @@
 
 
 int main() {
-   char ch;
-   scanf("%c", &ch);
-   printf("ACII Value: %d\n", ch);
+    char ch;
+    scanf("%c", &ch);
+    printf("ACII Value: %d\n", ch);
     return 0;
 }
