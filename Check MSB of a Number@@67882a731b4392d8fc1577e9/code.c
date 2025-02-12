@@ -2,9 +2,9 @@
 void checkMSB(int num) {
     int msb = num & (1<<31);
     if (msb)
-    printf("Set\n");
+        printf("Set\n");
     else
-    printf("Not Set\n");
+        printf("Not Set\n");
 
 }
 int main() {
